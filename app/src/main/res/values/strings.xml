@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pangu keyboard</string>
+    <string name="checkbox_enabled">On</string>
+    <string name="checkbox_default">Selected</string>
+    <string name="pangu_ime">Pangu keyboard</string>
+    <string name="subtype_png">Pangu</string>
+    <string name="background_icon">Background icon</string>
+    <string name="instruction">Tick 2 boxes</string>
+</resources>
